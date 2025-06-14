@@ -1,6 +1,4 @@
-# TerrainBrush
+# Terra-Brush
 A helpful building tool to make custom areas in MC
 
-Release estimate: 6/15/2025
-
-I will Update if its realesed
+The 1st release is now ready
